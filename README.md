@@ -112,6 +112,18 @@ Prova da narrativa central com dados.
 
 ---
 
+## 📸 Dashboard
+
+**Visão Geral**
+![Visão Geral](Imagens%20Dashboard/visão_geral.png)
+
+**Entregas**
+![Entregas](Imagens%20Dashboard/entregas.png)
+
+**Satisfação**
+![Satisfação](Imagens%20Dashboard/satisfacao.png)
+
+
 ## 👩‍💻 Autora
 
 **Camila Fernanda Henz dos Santos**
