@@ -116,4 +116,4 @@ Prova da narrativa central com dados.
 
 **Camila Fernanda Henz dos Santos**
 
-[LinkedIn](linkedin.com/in/camila-henz-114715202/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/camila-henz-114715202/) | [GitHub](https://github.com/CamiHenz93)
